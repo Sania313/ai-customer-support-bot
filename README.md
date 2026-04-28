@@ -9,8 +9,7 @@
 ---
 
 ## 📹 Demo Video
-*Coming soon*
-
+**https://github.com/Sania313/ai-customer-support-bot/blob/main/Medicare%20Zapier-Gemini-Gmail%20Automation.mp4**
 ---
 
 ## 🎯 What This Automation Does
